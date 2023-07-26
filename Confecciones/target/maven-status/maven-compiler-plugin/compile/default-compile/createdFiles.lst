@@ -1,0 +1,11 @@
+co\edu\sena\confecciones\persistencia\exceptions\IllegalOrphanException.class
+co\edu\sena\confecciones\servlets\SvModista.class
+co\edu\sena\confecciones\logica\Modista_.class
+co\edu\sena\confecciones\JakartaRestConfiguration.class
+co\edu\sena\confecciones\persistencia\exceptions\NonexistentEntityException.class
+co\edu\sena\confecciones\persistencia\ControladoraPersistencia.class
+co\edu\sena\confecciones\logica\Modista.class
+co\edu\sena\confecciones\persistencia\exceptions\PreexistingEntityException.class
+co\edu\sena\confecciones\resources\JakartaEE8Resource.class
+co\edu\sena\confecciones\logica\Controladora.class
+co\edu\sena\confecciones\persistencia\ModistaJpaController.class

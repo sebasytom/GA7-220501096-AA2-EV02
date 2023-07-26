@@ -1,0 +1,107 @@
+
+header img{
+    width: 90%;
+    padding: 5%;
+}
+
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: snow;
+}
+
+.cuerpo{
+   text-align: center;
+    margin: auto;
+    width: 100%;
+    background-color: snow;
+    max-width: 90%;
+    font-size: 2vh;
+}
+
+section{   
+    display: grid;
+    grid-template-columns: 1fr  ;
+    grid-auto-rows: 1fr;    
+}
+
+fieldset input{
+    text-align: left; 
+    margin: 8px;
+    width: 10%;
+    padding: 5px; 
+   font-size: 13px;
+   
+}
+
+fieldset{
+    border-style: none;
+    
+}
+
+ .button{
+    position: relative;
+    text-align: center; 
+    margin: 7px;
+    height: 10%;
+    border: none;
+    width: 11%;
+    color: #fff;
+    font-size: 15px;
+    background:rgb(45, 45, 203);
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    bottom:  20px;
+}
+
+.button:hover{
+    background: black;
+}
+
+ .button-2{
+    position: relative;
+    text-align: center; 
+    margin: 7px;
+    height: 10%;
+    border: none;
+    width: 11%;
+    color: #fff;
+    font-size: 15px;
+    background:rgb(45, 45, 203);
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    bottom:  20px;
+}
+
+.button-2:hover{
+    background: black;
+}
+
+
+footer{
+    text-align: center; 
+    border-style: none; 
+}
+
+h1{
+    color: blue;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 30px;   
+}
+
+.contenedor-sobre-nota{
+    width: 30%;
+    padding: 15px;
+    position: relative;
+    left: 450px;
+    font-size: 20px;
+    bottom: 35px;
+}
+
+h6{
+    font-size: 20px;
+    border-style: solid; 
+}
